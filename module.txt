@@ -1,0 +1,9 @@
+{
+    "id" : "NewStructureTemplate",
+    "version" : "0.1.0-SNAPSHOT",
+    "author" : "Jason Yonathan Huang (jasyohuang)",
+    "displayName" : "NewStructureTemplate",
+    "description" : "The module of Structure Template, contains of Fort and Stone Pyramid",
+    "dependencies" : [{"id": "Core", "minVersion": "1.0.0"}, {"id" : "StructureTemplates", "minVersion" : "0.2.0"}],
+    "serverSideOnly" : false
+}
